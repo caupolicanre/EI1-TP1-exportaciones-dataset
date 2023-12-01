@@ -353,7 +353,7 @@ plt.show()
 contadorPaisDestino.sort(key=op.itemgetter(1), reverse=True)  # Esta es la manera para organizar una matriz por su columna
 
 # Cuando ya está realizado todo el trabajo de procesamiento, escribo en un bloc de notas, la información del resultado del trabajo de umbralado
-with open('./dataset/processed/'+'Exportaciones_report.txt','w') as informe:
+with open('./results/'+'Exportaciones_report.txt','w') as informe:
     informe.write("Informe del procesamiento de la base de datos \"Exportaciones\"\n\n")
 
     informe.write("Variables Procesadas:\n")
