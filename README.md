@@ -43,4 +43,4 @@ The main objectives of this project are:
 
 The work demonstrates the application of Python for data processing and analysis. It involved cleaning and processing a dataset related to export operations using the Exporta Simple platform. The generated reports and visualizations help in better understanding the trends and characteristics of the export data.
 
-For detailed information, refer to the Python script, generated graphs and the accompanying report in the repository.
+For detailed information, refer to the [Python script](https://github.com/caupolicanre/EI1-TP1-exportaciones-dataset/blob/main/app/dataset_processing.py), generated [graphs](https://github.com/caupolicanre/EI1-TP1-exportaciones-dataset/tree/main/graphs) and the accompanying [report](https://github.com/caupolicanre/EI1-TP1-exportaciones-dataset/blob/main/results/Exportaciones_report.txt) in the repository.
