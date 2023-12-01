@@ -1,0 +1,145 @@
+Informe del procesamiento de la base de datos "Exportaciones"
+
+Variables Procesadas:
+. "monto_operacion"
+. "tiempo_envio"
+. "pais_destino"
+
+Variables Nuevas:
+. "monto_operacion_ordinal"
+. "tiempo_envio_nominal"
+. "tiempo_envio_normalizada"
+
+
+Información Obtenida
+
+Monto Operación
+Monto Operación Ordinal:
+. Monto Bajo: 84.45%
+. Monto Medio: 8.86%
+. Monto Alto: 6.69%
+
+Monto Operación Mínimos y Máximos período diciembre-febrero:
+. 2017:
+       . Mínimo: 100.29
+       . Máximo: 42000.0
+       . Cantidad de envíos: 91
+. 2018:
+       . Mínimo: 1.95
+       . Máximo: 16802.4
+       . Cantidad de envíos: 547
+. 2019:
+       . Mínimo: 0.6
+       . Máximo: 15000.0
+       . Cantidad de envíos: 666
+. Los 3 años:
+       . Mínimo: 0.6
+       . Máximo: 42000.0
+       . Cantidad de envíos: 1304
+
+Tiempo Envío:
+. Rápido: 49.91%
+. Lento: 50.11%
+
+Cantidad de envíos a cada país destino:
+. Estados Unidos: 1889
+. Chile: 367
+. Uruguay: 286
+. Perú: 226
+. España: 184
+. Australia: 163
+. México: 162
+. Reino Unido: 159
+. Francia: 147
+. Bolivia: 132
+. Paraguay: 124
+. Alemania: 122
+. Colombia: 122
+. Brasil: 111
+. Ecuador: 107
+. Países Bajos: 106
+. Italia: 101
+. Canadá: 82
+. Japón: 79
+. Suiza: 66
+. Guatemala: 55
+. Costa Rica: 50
+. Panamá: 38
+. Puerto Rico: 34
+. China: 33
+. Corea del Sur: 32
+. Emiratos Árabes Unidos: 30
+. Bélgica: 29
+. República Dominicana: 29
+. El Salvador: 27
+. Dinamarca: 24
+. Suecia: 20
+. Singapur: 20
+. Hong Kong: 18
+. Sudáfrica: 17
+. Ucrania: 16
+. Noruega: 14
+. Polonia: 14
+. Grecia: 14
+. Taiwán: 14
+. Honduras: 13
+. Irlanda: 13
+. Nueva Zelanda: 13
+. Portugal: 10
+. Iraq: 10
+. Austria: 10
+. Israel: 10
+. Nicaragua: 9
+. India: 9
+. Filipinas: 9
+. Venezuela: 8
+. República Checa: 8
+. Vietnam: 8
+. Nigeria: 8
+. Qatar: 8
+. Arabia Saudita: 7
+. Turquía: 6
+. Rumania: 6
+. Lituania: 6
+. Malasia: 6
+. Haití: 5
+. Hungría: 5
+. Tailandia: 5
+. Bahréin: 5
+. Kuwait: 4
+. Omán: 4
+. Estonia: 4
+. Rusia: 4
+. Chipre: 3
+. ARY Macedonia: 3
+. Pakistán: 3
+. Finlandia: 3
+. Croacia: 3
+. Malta: 2
+. Bulgaria: 2
+. Islandia: 2
+. Eslovaquia: 2
+. Luxemburgo: 2
+. Tanzania: 2
+. Indonesia: 2
+. Georgia: 2
+. Líbano: 2
+. Azerbaiyán: 2
+. Eslovenia: 2
+. Nepal: 2
+. Brunéi: 1
+. Túnez: 1
+. Jamaica: 1
+. Granada: 1
+. Trinidad y Tobago: 1
+. Serbia: 1
+. Letonia: 1
+. Bangladesh: 1
+. Jordania: 1
+. Mauricio: 1
+. Palestina (ANP): 1
+. Zimbabue: 1
+. Senegal: 1
+. Marruecos: 1
+. Ghana: 1
+. Zambia: 1
